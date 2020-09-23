@@ -3,7 +3,7 @@
 ## 完整效果
 ![t](https://github.com/HuiyanWen/Atlas200_HCCR/blob/master/tx6or-k8jom.gif)
 
-<div><img width="300" height="200" src="https://github.com/HuiyanWen/mindspore_hccr/blob/master/pic/hanzi28.jpg"/></div>
+<div><img width="400" height="300" src="https://github.com/HuiyanWen/mindspore_hccr/blob/master/pic/hanzi28.jpg"/></div>
 
 ## 整体训练流程
 <div><img width="300" height="300" src="https://github.com/HuiyanWen/mindspore_hccr/blob/master/pic/%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B.png"/></div>
@@ -51,4 +51,4 @@ mindspore的底层加速确实不错，同等参数训练比tensorflow要快一�
 ## 模型导出
 网络训练完成后，可进一步导出为GEIR或ONNX格式的PB模型，以便后续部署到Atlas或其它平台上进行推理。
 
-<div><img width="500" height="300" src="https://github.com/HuiyanWen/mindspore_hccr/blob/master/pic/%E5%9B%BE%E7%89%87%204.png"/></div>
+<div><img width="600" height="300" src="https://github.com/HuiyanWen/mindspore_hccr/blob/master/pic/%E5%9B%BE%E7%89%87%204.png"/></div>
