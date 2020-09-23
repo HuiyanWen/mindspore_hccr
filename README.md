@@ -5,7 +5,7 @@
 
 ![t](https://github.com/HuiyanWen/mindspore_hccr/blob/master/pic/hanzi28.jpg)
 ## 整体训练流程
-![t](https://github.com/HuiyanWen/mindspore_hccr/blob/master/pic/%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B.png =50x50)
+![t](https://github.com/HuiyanWen/mindspore_hccr/blob/master/pic/%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B.png){:height="20%" width="20%"}
 
 ## 代码说明
 ```
